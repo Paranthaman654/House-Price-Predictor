@@ -15,7 +15,7 @@ This project predicts the sale price of a house based on features like area, siz
 - Streamlit
 - Deployed on Streamlit Cloud
 
-  ## 🔗 Live App
+## 🔗 Live App
 Click here to open the live app 👉 https://house-price-predictor-ymssfdcd9vitschla5vrmb.streamlit.app/
 
 ## 🚀 How to Run Locally
